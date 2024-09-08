@@ -1,2 +1,2 @@
-# Leetcode-C
-Solution of few leetcode problems in C
+# Leetcode
+Solution of leetcode problems
